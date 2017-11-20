@@ -14,13 +14,16 @@
 /* This example is intended to show how floating point numbers are
  * represented in memory.
  *
+ * This example shold be compiled as follows:
+ *   gcc -lm float.c -o float
+ *
  * Usage examples
  *   1. Show single number:
- *     ./a.out 1.1
+ *     ./float 1.1
  *   2. Show numbers in the range [1.0, 2.0] with step = 0.1:
- *     ./a.out 1.0 2.0
+ *     ./float 1.0 2.0
  *   3. Show numbers in the range [1.0, 2.0] with step = 0.01:
- *     ./a.out 1.0 2.0 0.01
+ *     ./float 1.0 2.0 0.01
  *
  * Also I think the presentation [1] is very helpful for understanding
  * the topic.
