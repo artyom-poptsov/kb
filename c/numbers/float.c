@@ -25,10 +25,11 @@
  *   3. Show numbers in the range [1.0, 2.0] with step = 0.01:
  *     ./float 1.0 2.0 0.01
  *
- * Also I think the presentation [1] is very helpful for understanding
- * the topic.
+ * Also I think the presentation [1] and article [2] is very helpful
+ * for understanding the topic.
  *
  * [1]: <http://eng.usf.edu/~kaw/class/EML3041/handouts/pptfloatingpoint_IEE754format.pdf>
+ * [2]: <https://www.cprogramming.com/tutorial/floating_point/understanding_floating_point_representation.html>
  */
 
 
